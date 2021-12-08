@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rileybailey1998
+- 👋 Hi, I’m @Cailey_Flewellin
 - 👀 I’m interested in building real world application in Python, R, and SQL
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on research projects that allow me to learn
